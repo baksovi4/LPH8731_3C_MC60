@@ -1,0 +1,47 @@
+##########################################################
+# Syntax Coloring Map
+##########################################################
+##########################################################
+# Datatypes (KEYWORD1)
+# Classes, datatypes, and C++ keywords
+##########################################################
+LPH8731_3C_MC60	KEYWORD1
+lcd	KEYWORD1
+##########################################################
+# Methods and Functions (KEYWORD2)
+##########################################################
+reset	KEYWORD2
+begin	KEYWORD2
+lcdSend	KEYWORD2
+setArea	KEYWORD2
+fillScreen	KEYWORD2
+setPixColor	KEYWORD2
+setSymbol	KEYWORD2
+setSymbolShadow	KEYWORD2
+setChar	KEYWORD2
+setCharShadow	KEYWORD2
+string	KEYWORD2
+stringShadow	KEYWORD2
+drawLine	KEYWORD2
+drawRect	KEYWORD2
+fillRect	KEYWORD2
+drawCircle	KEYWORD2
+fillCircle	KEYWORD2
+drawTriangle	KEYWORD2
+fillTriangle	KEYWORD2
+sendImage	KEYWORD2
+outputImage	KEYWORD2
+white	KEYWORD2
+black	KEYWORD2
+##########################################################
+# Methods and Functions (KEYWORD3)
+# setup and loop functions, as well as the Serial keywords
+##########################################################
+_8_BIT_COLOR	KEYWORD3
+##########################################################
+# Constants (LITERAL1)
+##########################################################
+##########################################################
+# Constants (LITERAL2)
+# Built-in variables (unused by default)
+##########################################################
