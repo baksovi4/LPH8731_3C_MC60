@@ -6,8 +6,6 @@
 
  Based on: https://cxem.net/mc/mc218.php
 
- * These changes required hardware changes to pin configurations
-
  PERMISSION TO DISTRIBUTE
 
  Permission is hereby granted, free of charge, to any person obtaining a copy of this software
