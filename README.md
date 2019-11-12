@@ -2,6 +2,8 @@
 
 Assembled from pieces for ESP8266 on NodeMCU v3
 
+Screen from the phone Siemens MC60
+
 	TFT pin			MCU pin
 
 	1 (CS)       --      D1 (GPIO 5)
